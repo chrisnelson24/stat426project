@@ -1,4 +1,4 @@
-# stat426project
+# Stat 426 Final Project - Data Science Methods
 
 # Question
 One of the biggest points of contention in sports is to determine a salary for professional atheltes. You especially hear it in the NFL mainly about ofensively players, but what about the defense? My purpose and question is to determine which defensive players in the NFL are worth their contract?
